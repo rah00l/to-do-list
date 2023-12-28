@@ -68,5 +68,3 @@ Test your application by opening the HTML file in a web browser. Make sure you c
 
 ### Step 7: Enhancement (Optional):
 Consider adding additional features like task deletion, task completion status, or local storage to persist tasks between page reloads.
-
-Remember, the key is to break down the problem, tackle each part individually, and gradually build up to a working solution. Don't hesitate to refer to documentation or seek help if you encounter challenges along the way. Enjoy the process of creating your to-do list!
